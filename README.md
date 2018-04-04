@@ -1,4 +1,4 @@
-# Isaac(as in Newton) Support Page
+# Isaac (as in Newton) Support Page
 
 Isaac (as in Newton) is a physics-based puzzle game that centers around manipulating gravity to reach a goal. Isaac features a minimalistic art style (in case you didn't know, "minimalistic art style" is developer-ese for "I couldn't afford an artist").
 
