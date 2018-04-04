@@ -2,7 +2,7 @@
 
 Isaac (as in Newton) is a physics-based puzzle game that centers around manipulating gravity to reach a goal. Isaac features a minimalistic art style (in case you didn't know, "minimalistic art style" is developer-ese for "I couldn't afford an artist").
 
-Isaac is available on Android and pending approval on iOs
+Isaac is available on Android and is pending approval on iOS.
 
 Apple requires a support page for iOS apps, so here it is:
 
