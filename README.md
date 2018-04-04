@@ -4,6 +4,9 @@ Isaac (as in Newton) is a physics-based puzzle game that centers around manipula
 
 Isaac is available on Android and iOS. It looks a lot better on phones than tablets.
 
+Google Play: https://play.google.com/store/apps/details?id=com.icloud.fwcarlitos.newton
+App Store: https://itunes.apple.com/us/app/isaac-as-in-newton/id1367144404?ls=1&mt=8
+
 Apple requires a support page for iOS apps, so here it is:
 
 ## Support page for the game Isaac (as in Newton): A Physics-Based Puzzle Game
