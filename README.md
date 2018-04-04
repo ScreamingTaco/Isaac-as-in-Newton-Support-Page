@@ -37,7 +37,7 @@ I would like to thank God, first and foremost, for giving me breath and sending 
 
 Secondly, I would like to thank my family and friends for all their support in the making of this game.
 
-I would also like to thank my all the users who provide valuable feedback. I couldn't have done this without y'all.
+I would also like to thank all the users who provide valuable feedback. I couldn't have done this without y'all.
 
 ### Contact
 Comments? Suggestions? Feedback? Email vazquez.technologies@gmail.com. I will respond as soon as I can, but please be patient and remember that I am an indie developer. If you would like to suggest a level, please include how you would like to be credited in Issac (as in Newton): A Physics-Based Puzzle Game. 
